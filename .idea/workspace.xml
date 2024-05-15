@@ -5,28 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c504d6c-e522-484b-bf0a-23c6ca5a493f" name="Changes" comment="v1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/oPro/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/oPro/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/oPro/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/oPro/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/oPro/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/images/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/static/css/blog.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/templates/blog/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/templates/blog/post/detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/templates/blog/post/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oPro/yypy/views.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/CoreRoot/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/CoreRoot/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/CoreRoot/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/CoreRoot/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/CoreRoot/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/core/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/core/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/core/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/core/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/core/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/core/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/core/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/core/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/core/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreRoot/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/api/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/migrations/0002_video_text_image_file_content.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/migrations/0003_alter_content_options_alter_module_options_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templates/registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/templatetags/course.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/courses/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/educa/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/educa/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/educa/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/educa/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/educa/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educa/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/books/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/books/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/books/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/books/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/books/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/books/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/books/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/library/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/library/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/library/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/library/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/library/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educa/.idea/educa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/educa/.idea/educa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/educa/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educa/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/educa/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +82,12 @@
     &quot;assignee&quot;: &quot;LeoUnusSed&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MERNTS/azure-react-django.git&quot;,
-    &quot;accountId&quot;: &quot;af63103c-ce70-47d3-bc19-1e5a184d875b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MERNTS/azure-react-django.git",
+    "accountId": "33ae84f8-e93f-408e-8834-6c53b5d76c06"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -119,8 +159,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -138,6 +178,7 @@
       <workItem from="1715629287850" duration="306000" />
       <workItem from="1715636496478" duration="14827000" />
       <workItem from="1715657908919" duration="402000" />
+      <workItem from="1715801835891" duration="81000" />
     </task>
     <task id="LOCAL-00001" summary="v1">
       <option name="closed" value="true" />
